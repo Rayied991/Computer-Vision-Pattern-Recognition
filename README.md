@@ -1,7 +1,7 @@
 # Computer-Vision-Pattern-Recognition
 
 
-<h3 id="Resources">Resources<a href="//github.com/debajyotikarmaker/cvpr_4234/blob/6cc0a8a3350f1e4af2c4bb6ef8fb63dd6ed43aa8//#Resources" class="anchor-link">¶</a></h3>
+<h3>Resources</h3>
 <p><strong>Text books</strong></p>
 
 <ul>
