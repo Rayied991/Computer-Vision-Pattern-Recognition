@@ -20,3 +20,5 @@
 </li>
 <li><a href="https://www.youtube.com/watch?v=aircAruvnKk&amp;list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&amp;ab_channel=3Blue1Brown">Neural Network</a> from 3blue1brown</li>
 <li><a href="https://www.youtube.com/watch?v=fNk_zzaMoSs&amp;list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab&amp;ab_channel=3Blue1Brown">Linear Algebra</a> from 3blue1brown</li>
+
+<li><a href="https://drive.google.com/drive/folders/1GVf34iH2eS56gchojddm2UJBLR27y19Z?usp=share_link">Code Link</a></li>
